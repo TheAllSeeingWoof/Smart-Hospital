@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SmartHospital</string>
+    <string name="smart_hospital">Smart Hospital</string>
+    <string name="registruj_se">REGISTRUJ SE</string>
+    <string name="prijavi_se">PRIJAVI SE</string>
+    <string name="ime">Ime:</string>
+    <string name="prezime">Prezime:</string>
+    <string name="pol">pol:</string>
+    <string name="lozinka">Lozinka:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="username_je">Username je:</string>
+    <string name="muski">M</string>
+    <string name="ženski">Ž</string>
+    <string name="ostalo">Ostalo</string>
+    <string name="prijava">Prijava</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="dobrodo_li_u_login_activity">Dobrodošli u Login Activity.</string>
+    <string name="uneti_ime">Uneti Ime</string>
+    <string name="uneti_prezime">Uneti prezime</string>
+    <string name="datum_ro_enja">Datum rođenja:</string>
+    <string name="uneti_lozinku">Uneti lozinku</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_is_empty_at_the_moment">list is empty at the moment :(</string>
+    <string name="neaktivan">NEAKTIVAN</string>
+    <string name="dodati_uredjaj">Dodati uredjaj</string>
+    <string name="tip_novog_uredjaja">tip novog uredjaja</string>
+    <string name="ime_novog_uredjaja">ime novog uredjaja</string>
+    <string name="sacuvaj">Sacuvaj</string>
+</resources>
